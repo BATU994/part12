@@ -1,0 +1,44 @@
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 70px;
+}
+ol {
+  text-align: center;
+  a {
+    border: solid 0.5px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    padding: 3px;
+    color: green;
+  }
+  a:hover {
+    padding: 7px;
+    transition: all 0.2s;
+    background-color: blue;
+    color: aliceblue;
+  }
+  p {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+  }
+}
+
+body {
+  background-color: bisque;
+}
+
+img {
+  border: 2px solid;
+  border-radius: 20px;
+}
+
+.images {
+  display: block;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0px solid;
+}

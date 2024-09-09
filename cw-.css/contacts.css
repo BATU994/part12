@@ -1,0 +1,66 @@
+form {
+  display: flex;
+  input {
+    margin-bottom: 30px;
+  }
+
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+fieldset {
+  background-color: blue;
+  color: rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+  align-items: center;
+  border-radius: 20px;
+  border: solid;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+legend {
+  background-color: blue;
+  text-align: center;
+  border-radius: 10px;
+  border: solid;
+}
+body {
+  background-color: rgb(255, 185, 185);
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+input[type="email"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+
+input[type="submit"] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #95cb00;
+  font-size: 20px;
+  color: beige;
+}
