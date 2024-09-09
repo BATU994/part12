@@ -1,0 +1,43 @@
+p {
+    font-size: 20px;
+    border: solid blue 2px;
+    border-radius: 10px;
+    padding: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+table {
+    border-collapse: collapse;
+    li {
+        font-size: larger;
+    }
+}
+
+body {
+    background-color: rgb(252, 241, 241);
+}
+ul {
+    li {
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+        font-size: x-large;
+    }
+}
+
+table{
+    tr {
+        color:blue;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    th {
+        width: 30px;
+        height: 50px;
+    }
+
+}
+
+.head {
+    background-color: aqua;
+}
